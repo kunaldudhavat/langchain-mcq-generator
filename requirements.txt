@@ -5,6 +5,7 @@ langchain-community
 streamlit
 python-dotenv
 PyPDF2
+idna
 
 #for installation of local packages
 -e .
